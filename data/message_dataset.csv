@@ -1,0 +1,51 @@
+text,label,source_type
+"URGENT: Your PayPal account has been suspended due to unauthorized activity. Click here to confirm your identity immediately: http://paypal-security-update.xyz/verify",1,email
+"Final Notice: Your Microsoft 365 license will expire within 24 hours. Sign in now to prevent email deactivation: https://login.microsoftonline.security-renew.top/auth",1,email
+"Dear Customer, we detected an unusual login to your Chase checking account from Russia. If this was not you, verify your card details immediately at http://192.168.1.102/chase/login",1,email
+"Congratulations! You have been selected as the winner of the Amazon $1000 Gift Card Sweepstakes. Claim your prize within 2 hours: http://claim-amazon-gift.club/win",1,email
+"IRS Tax Refund Notification: You have a pending refund of $1,420.50 waiting for disbursement. Submit your SSN and direct deposit info here: http://irs-gov-refund-portal.click/refund",1,email
+"Important: Your Netflix payment was declined. Your membership is on hold. Update your credit card credentials to continue streaming: http://netflix-billing-update.icu/signin",1,email
+"Security Breach Alert: Someone attempted to access your Apple ID. Verify your password and 2FA credentials immediately: http://appleid.apple.com.verify-device.cam/auth",1,email
+"DHL Express: Your parcel delivery is on hold due to unpaid customs fee of $2.99. Pay now to release your shipment: http://dhl-express-parcel-tracking.xyz/pay",1,email
+"IT Support Desk: We are migrating email servers this weekend. All employees must enter their network username and password here to prevent account deletion: http://internal-company-it-portal.rest/login",1,email
+"Wells Fargo Alert: A wire transfer of $4,500.00 was initiated from your account. If you did not authorize this, click here to cancel immediately: http://wellsfargo-wire-cancel.buzz/auth",1,email
+"FedEx Delivery Notification: We attempted to deliver your package today but no one was home. Reschedule your delivery and confirm address: http://bit.ly/3x8AbCd",1,sms
+"BOA Alert: Your debit card ending in 4109 has been temporarily locked due to suspicious charges. Restore access now at: http://boa-card-restore.top/login",1,sms
+"USPS: Package cannot be delivered due to missing house number. Please update your details within 12 hours: http://tinyurl.com/usps-address-confirm",1,sms
+"Your Instagram account will be deleted within 24 hours for copyright infringement. Object to this decision by logging in here: http://instagram-copyright-appeal.xyz/login",1,text
+"Urgent: Unauthorized payment of $399.00 to CryptoPay LLC detected. Call fraud prevention team or click to dispute: http://fraud-alert-dispute.biz/cancel",1,sms
+"Geek Squad Renewal: Your auto-renewal for Total Tech Support has charged $499.99 to your card. To dispute or cancel this charge, call 1-800-FAKE-NUM immediately.",1,email
+"Hey mom, I lost my phone and wallet while traveling. Please wire $500 to this Bitcoin wallet address so I can get back home. Urgently need help!",1,text
+"Your Google Workspace storage is full. Emails sent to you are currently bouncing. Upgrade storage immediately by confirming your login credentials: http://storage-google-upgrade.vip/login",1,email
+"Bank Fraud Alert: Did you attempt a Zelle transfer of $900.00 to JOHN DOE? Reply NO if unauthorized and visit http://bank-zelle-protection.sbs/verify to block it.",1,sms
+"Your computer has been infected with Trojan.Spyware.32! Call Windows Security Helpline immediately at 1-888-555-0199. Do not restart your PC or close this window.",1,email
+"Hi Team, please find attached the minutes from yesterday's product roadmap meeting. Let me know if you have any questions or additions.",0,email
+"Good morning, can we reschedule our 1:1 to Thursday at 3 PM? I have a dentist appointment that conflicts with our original time.",0,email
+"Your flight confirmation for flight UA2489 to San Francisco is confirmed. Seat 14A has been assigned. Safe travels!",0,email
+"Hi Sarah, thanks for sending over the project proposal. I reviewed the budget section and left a few comments in the shared Google Doc.",0,email
+"Weekly Engineering Sync Notes: We successfully deployed the v2.4 API release. Great job everyone on keeping downtime under 2 minutes.",0,email
+"Your monthly statement for period ending October 15 is now available. Log in to your verified bank app or visit chase.com to review your statement.",0,email
+"Reminder: Your appointment with Dr. Miller is scheduled for tomorrow at 10:30 AM. Please arrive 10 minutes early with your insurance card.",0,sms
+"Your one-time verification passcode for GitHub is 849204. It expires in 10 minutes. If you did not request this, please review your security settings.",0,sms
+"Hey, are we still meeting up for dinner tonight around 7:30? Let me know if you want Italian or Mexican food.",0,text
+"Your Uber driver Alex is arriving now in a silver Toyota Prius (License Plate: 7XYZ123).",0,sms
+"Hi team, GitHub Actions build passed successfully for branch main on commit 8a4b3d1.",0,text
+"Receipt from Local Grocery Market: Total $45.67 paid with Visa ending in 1234. Thank you for shopping with us!",0,sms
+"Hi Dad, just wanted to check if you got home safely after the storm yesterday. Call me when you get a chance.",0,text
+"Your library books are due back in 3 days. Visit your local branch or renew your loans online through the library catalog.",0,email
+"Code review request: PR #142 'Fix memory leak in event listener' has been assigned to you. Please review when you have time.",0,email
+"Action Required: Your password expires in 2 hours. Reset your password immediately to prevent losing access to your corporate email: http://portal-password-reset.cfd/auth",1,email
+"Your account has been locked. Click the following link to authenticate and restore services: http://account-auth-center.xyz/secure",1,email
+"Warning: Unusual login attempt from IP 185.220.101.5. If this was not you, secure your account now: http://security-verification-alert.top/check",1,email
+"Bank of America: Suspicious purchase of $850.00 at Apple Store Online. To decline this transaction, click: http://boa-fraud-detection.monster/action",1,sms
+"Your parcel could not be delivered because customs duties of $3.50 are pending. Follow the link to pay: http://cutt.ly/package-customs-fee",1,sms
+"Hi everyone, the quarterly all-hands meeting has been moved to Room 402. Video conference link will remain the same.",0,email
+"Hey! Just checking to see if you are free for coffee tomorrow afternoon around 3?",0,text
+"Your order #98234 from BestBuy has shipped! Track your package through your official BestBuy account.",0,email
+"Thanks for dining with us! Here is your e-receipt for your recent visit to Starbucks.",0,email
+"Your electric bill of $84.20 is scheduled for auto-pay on October 25th. No action is required.",0,email
+"CRITICAL: We detected malicious software attempting to steal your cryptocurrency wallet keys. Transfer funds to safe escrow wallet immediately: http://crypto-escrow-safe.quest/backup",1,email
+"Notice from Human Resources: Please review the updated employee healthcare benefits document before the open enrollment deadline next Friday.",0,email
+"Hey bro, can you feed the cat when you get back from work? Left the keys under the mat.",0,text
+"Security Alert: Your social media account was logged into from Firefox on Linux. If this wasn't you, review recent sessions.",0,email
+"Exclusive: You have won a complimentary 5-night stay in the Bahamas! Call now to confirm your credit card and claim your voucher: http://bahamas-luxury-reward.buzz/claim",1,text
